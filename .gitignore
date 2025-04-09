@@ -1,3 +1,6 @@
 *.zip
-chrome-win64
+chrome
 chromedriver
+chrome-win64*
+chromedriver-win64*
+planilhas/noticias.xlsx
