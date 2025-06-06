@@ -1,0 +1,6 @@
+Vou te passar titulos de noticias e quero que você classifique simplesmente como:
+"previsão" - para coisas que ainda não aconteceram
+"aconteceu" - para coisas que já aconteceram
+"historico" - para coisas que já aconteceram e não vão mais acontecer
+Não quero explicações nem que mude os titulos, apenas a classificação. Exemplo: "Amanhã vai chover em SC" = previsão. Exemplo 2: "Ontem choveu em SC" = aconteceu. Exemplo 3: "Em 2000 choveu em SC" = historico. A formatação devera ser a seguinte <Titulo da notícia exatamente como foi enviado> = <Classificação>
+Titulos: 
